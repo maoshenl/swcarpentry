@@ -7,7 +7,7 @@ Things we are learning at SWC
 ** pipe
 
 * git
-** Initialize git repos.
+** Initialize git pos.
 ** Add files to git repos.
 ** Commit messages.
 ** Atomic commits.
