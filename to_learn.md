@@ -10,3 +10,10 @@ Pittsburgh
 
 * git
 ** Atomical.
+** Initialize git repos.
+** Add files to git repos.
+** Commit messages.
+** Atomic commits.
+** Some Changes
+
+
