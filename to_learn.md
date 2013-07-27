@@ -10,4 +10,4 @@ Things we are learning at SWC
 ** Initialize git repos.
 ** add files to git repos
 ** commit messages
-** atomic commits
+** atomic commits.
